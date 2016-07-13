@@ -9,12 +9,9 @@
 }
 
 .img-logo {
-	position: relative;
-	left: 0;
-	width: 222px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	width: 200px;
 	display: block;
+	padding-top: 10px;
 }
 
 .nav-button {
@@ -40,7 +37,7 @@
 }
 
 .content {
-	margin-top: 115px;
+	margin-top: 105px;
 }
 
 .card {
@@ -78,7 +75,8 @@
 	font-family: sans-serif;
 	font-size: 22px;
 	text-decoration: none;
-	color: #757575;	
+	color: #757575;
+	padding-right: 20px;	
 }
 
 .card-button {
