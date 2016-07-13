@@ -12,7 +12,7 @@
 	width: 222px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	margin: 0 auto;
+	left: 0;
 	display: block;
 }
 
@@ -39,7 +39,7 @@
 }
 
 .content {
-	margin-top: 160px;
+	margin-top: 100px;
 }
 
 .card {
