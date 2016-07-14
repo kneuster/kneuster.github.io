@@ -36,7 +36,7 @@ body {
 }
 
 .card-text-wrap {
-	border-bottom: 1px solid #ccd1d9;
+	border-bottom: 2px solid #ccd1d9;
 	overflow: auto;
 }
 
@@ -90,7 +90,7 @@ body {
 }
 
 .big-text-wrap {
-	border-bottom: 1px solid #ccd1d9;
+	border-bottom: 2px solid #ccd1d9;
 	background-color: #ffffff;
 	overflow: auto;
 }
