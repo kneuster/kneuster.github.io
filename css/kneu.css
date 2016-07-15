@@ -82,6 +82,11 @@ body {
 	outline: 0;
 }
 
+.card-button:active {
+	background-color: #e9573f;
+	border: none;
+}
+
 /* C O N T E N T S I T E S */
 
 .big-image {
