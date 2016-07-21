@@ -1,161 +1,154 @@
 body {
-	background-color: #e6e9ed;
+    background-color: #e6e9ed;
 }
 
 .header {
-	width: 100%;
-	margin: 0;
-	padding: 0;
-	z-index: 1;
-	top: 0px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+    top: 0px;
 }
 
 .img-logo {
-	width: 100%;
-	display: block;
-	margin: 10px 0px 10px 0px;
+    width: 100%;
+    display: block;
+    margin: 10px 0px 10px 0px;
 }
 
 .content {
-	margin-top: 20px;
+    margin-top: 20px;
 }
 
 .card {
-	background-color: #ffffff;
-	margin-bottom: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
 }
 
 .card-image {
-	width: 100%;
-	height: 300px;
+    width: 100%;
+    height: 300px;
 }
 
 .card-image:hover {
-	opacity: 0.75;	
-	transition: all 0.3s ease 0s;
+    opacity: 0.75;
+    transition: all 0.3s ease 0s;
 }
 
 .card-text-wrap {
-	border-bottom: 2px solid #ccd1d9;
-	overflow: auto;
+    border-bottom: 2px solid #ccd1d9;
+    overflow: auto;
 }
 
 .card-text {
-	display: block;
-	top: 10px;
-	font-family: sans-serif;
-	font-size: 22px;
-	text-decoration: none;
-	color: #757575;
-	padding: 10px 20px 0px 10px;	
+    display: block;
+    top: 10px;
+    font-family: sans-serif;
+    font-size: 22px;
+    text-decoration: none;
+    color: #757575;
+    padding: 10px 20px 0px 10px;
 }
 
 .card-button {
-	display: block;
-	width: 100px;
-	height: 30px;
-	background-color: #ffffff;
-	border: 1px solid #aeaeae;
-
-	float: right;
-	margin: 0px 10px 10px 0px;
-
-	text-align: center;
-	font-family: sans-serif;
-	text-decoration: none;
-	color: #aeaeae;
+    display: block;
+    width: 100px;
+    height: 30px;
+    background-color: #ffffff;
+    border: 1px solid #aeaeae;
+    float: right;
+    margin: 0px 10px 10px 0px;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #aeaeae;
 }
 
-.card-button:hover {	
-	background-color: #fc6e51;
-	border: none;
-	
-	text-align: center;
-	font-family: sans-serif;
-	text-decoration: none;
-	color: #ffffff;
-	
-	transition: all 0.3s ease 0s;
+.card-button:hover {
+    background-color: #fc6e51;
+    border: none;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #ffffff;
+    transition: all 0.3s ease 0s;
 }
 
 .card-button:focus {
-	outline: 0;
+    outline: 0;
 }
 
 .card-button:active {
-	background-color: #e9573f;
-	border: none;
+    background-color: #e9573f;
+    border: none;
 }
+
 
 /* C O N T E N T S I T E S */
 
 .big-image {
-	width: 100%;
-	height: 400px;
+    width: 100%;
+    height: 400px;
 }
 
 .small-image {
-	width: 100%;
-	height: 300px;
-	margin-bottom: 20px;
-	border-bottom: 2px solid #ccd1d9;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #ccd1d9;
 }
 
 .big-text-wrap {
-	border-bottom: 2px solid #ccd1d9;
-	background-color: #ffffff;
-	overflow: auto;
-	margin-bottom: 20px;
+    border-bottom: 2px solid #ccd1d9;
+    background-color: #ffffff;
+    overflow: auto;
+    margin-bottom: 20px;
 }
 
 .big-text-title {
-	display: block;
-	top: 10px;
-	font-family: sans-serif;
-	font-size: 22px;
-	text-decoration: none;
-	color: #757575;
-	padding: 10px 20px 0px 20px;	
+    display: block;
+    top: 10px;
+    font-family: sans-serif;
+    font-size: 22px;
+    text-decoration: none;
+    color: #757575;
+    padding: 10px 20px 0px 20px;
 }
 
 .big-text {
-	display: block;
-	margin-top: 10px;
-	font-family: sans-serif;
-	font-size: 16px;
-	text-decoration: none;
-	color: #757575;
-	padding: 0px 20px 0px 20px;	
+    display: block;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    color: #757575;
+    padding: 0px 20px 0px 20px;
 }
 
 .back-button {
-	display: block;
-	width: 100px;
-	height: 30px;
-	background-color: #ffffff;
-	border: 1px solid #aeaeae;
-
-	float: right;
-	margin: 0px 10px 10px 0px;
-
-	text-align: center;
-	font-family: sans-serif;
-	text-decoration: none;
-	color: #aeaeae;
+    display: block;
+    width: 100px;
+    height: 30px;
+    background-color: #ffffff;
+    border: 1px solid #aeaeae;
+    float: right;
+    margin: 0px 10px 10px 0px;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #aeaeae;
 }
 
-.back-button:hover {	
-	background-color: #fc6e51;
-	border: none;
-	
-	text-align: center;
-	font-family: sans-serif;
-	text-decoration: none;
-	color: #ffffff;
-	
-	transition: all 0.3s ease 0s;
+.back-button:hover {
+    background-color: #fc6e51;
+    border: none;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #ffffff;
+    transition: all 0.3s ease 0s;
 }
 
 .back-button:focus {
-	outline: 0;
+    outline: 0;
 }
